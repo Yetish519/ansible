@@ -10,6 +10,6 @@
           - default-jdk
           - git
           - tree
-    -  name: updating the system
+    - name: updating the system
        apt: 
          update_cache: true
